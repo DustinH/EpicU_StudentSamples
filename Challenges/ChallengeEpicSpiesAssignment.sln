@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Requirements", "Requirement
 		ChallengeEpicSpiesAssignment\Documents\EpicSpies-Mockup-3.png = ChallengeEpicSpiesAssignment\Documents\EpicSpies-Mockup-3.png
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Applications", "Applications", "{0EC4C73B-D580-4DBD-A7AA-A6F6ADA0EA95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,5 +28,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3468AEF7-8563-4787-B3E2-F3D70BE65CFC} = {0EC4C73B-D580-4DBD-A7AA-A6F6ADA0EA95}
 	EndGlobalSection
 EndGlobal
