@@ -1,0 +1,30 @@
+﻿
+
+.wrapper {
+    border: solid 1px Red;
+}
+.containment {
+    border: solid 2px Black;
+    width: 66%;
+    margin: 0 auto;
+}
+.section {
+    margin: 0 auto;
+}
+
+.header {
+    border: dashed 1px Orange;
+}
+
+.body {
+    border: dashed 1px Orange;
+}
+
+.footer {
+    border: dashed 1px Orange;
+}
+
+.hidden {
+  display: none !important;
+  visibility: hidden !important;
+}
