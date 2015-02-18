@@ -3,7 +3,9 @@ This is my public repo for EpicU students.  There will be challenge projets (my 
 
 Great place to see how I did the solutions or just study me to get 'flow' down.
 
-<http://dustinh.github.io/EpicU_StudentSamples>
+Access the project page at <http://dustinh.github.io/EpicU_StudentSamples>. 
+
+Read more at <https://help.github.com/pages>.
 
 ## Best Practices
 ### Branching - Naming
