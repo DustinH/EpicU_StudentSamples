@@ -66,6 +66,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\images\epic-spies-logo.jpg" />
+    <Content Include="Content\images\epic-spies-logo.png" />
     <Content Include="Content\Site.css" />
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />

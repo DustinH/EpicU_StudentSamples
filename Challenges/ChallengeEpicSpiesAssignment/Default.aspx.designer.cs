@@ -38,5 +38,23 @@ namespace ChallengeEpicSpiesAssignment {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label _resultLabel;
+        
+        /// <summary>
+        /// _spyCodeName control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox _spyCodeName;
+        
+        /// <summary>
+        /// _newAssignmentName control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox _newAssignmentName;
     }
 }

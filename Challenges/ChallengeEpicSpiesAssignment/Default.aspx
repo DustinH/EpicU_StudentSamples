@@ -23,7 +23,24 @@
             <div class="containment">
                 <div class="header">
                     <div class="section">
-                        HEADER
+                        <div class="logo">
+                            
+                        </div>
+                        <div class="title">
+                            <h1>Epic Spy New Assignment Form</h1>
+                            
+                            <div class="row">
+                                <label class="labelForTextBox">Spy Code Name:</label>
+                                <asp:TextBox runat="server" ID="_spyCodeName" CssClass="formTextBox" />
+                            </div>
+                            
+                            <div class="row">
+                                <label class="labelForTextBox">New Assignment Name:</label>
+                                <asp:TextBox runat="server" ID="_newAssignmentName" />
+                            </div>
+
+                        </div>
+                        <div class="clear"></div>
                     </div>
                 </div>
                 <div class="body">BODY</div>
