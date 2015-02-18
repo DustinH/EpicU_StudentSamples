@@ -3,6 +3,7 @@ This is my public repo for EpicU students.  There will be challenge projets (my 
 
 Great place to see how I did the solutions or just study me to get 'flow' down.
 
+<http://dustinh.github.io/EpicU_StudentSamples>
 
 ## Best Practices
 ### Branching - Naming
